@@ -18,7 +18,8 @@ Desarrollo de una aplicación web que permite a los usuarios explorar artistas m
 <img width="1252" height="650" alt="Inicio-tunify" src="https://github.com/user-attachments/assets/1e888751-4632-48d3-9b5c-5c898bdaf95e" />
 <img width="1276" height="647" alt="Seccion-pop" src="https://github.com/user-attachments/assets/db3f5e84-3cf9-48ea-8b64-4cc4126e3d80" />
 <img width="1277" height="647" alt="Seccion-artista" src="https://github.com/user-attachments/assets/9bfa6299-1571-4f34-9c8c-8919da8f6076" />
-<img width="1255" height="655" alt="Seccion-album-artista" src="https://github.com/user-attachments/assets/814b9419-d209-452f-8c4a-b17087a527e1" />
+<img width="1255" height="524" alt="Seccion-album-artista" src="https://github.com/user-attachments/assets/faf2923c-11cf-48a3-a76e-8c99fe654b80" />
+
 
 
 ## Autora
